@@ -4,6 +4,6 @@ public class Main {
         Saludo();
     }
     public static void Saludo(){
-        System.out.println("Holaaa Soy Anass que tal?");
+        System.out.println("Holaaa Soy Anass que tal? ;-)");
     }
 }
